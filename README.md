@@ -31,4 +31,4 @@ The drawback of Wynk is that we cannot sort songs in the playlist according to t
 |4.|Brute Force Algorithm|This is the most basic and simplest type of algorithm. In the end it definitely gives the optimal solution.|-|O(N)|
 |5.|Array of Structures|It is used to store the names of recently searched songs and display them when required.|O(N)|O(N)|
 
-Note: To run the code download "code and essentials.zip" and unzip it in one folder. Then run main.c
+Note: To run the code download all files in one folder. Then run main.c
